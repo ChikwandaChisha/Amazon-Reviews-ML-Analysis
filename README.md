@@ -1,4 +1,4 @@
-# Amazon Reviews ML Analysis
+# Review Mind - ML Review Analysis
 
 This project focuses on analyzing Amazon product reviews using machine learning techniques. The analysis includes sentiment analysis and review classification to understand customer feedback patterns.
 
