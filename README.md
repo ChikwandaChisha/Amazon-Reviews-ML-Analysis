@@ -62,6 +62,3 @@ jupyter notebook "Final Project - Chikwanda Chisha.ipynb"
 
 Chikwanda Chisha
 
-## License
-
-This project is open source and available under the MIT License. 
